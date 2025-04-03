@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Aspiring CS student | AI Enthusiast | Startup Builder</h2>
+<h2 align="center">Aspiring CS student | Startup Builder</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ebinjosey/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
