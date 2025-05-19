@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm an aspiring computer science student on a gap year, diving deep into AI, software development, and startups. Instead of a traditional path, I'm spending this time learning by building, developing projects that challenge me, exploring new technologies, and working on innovative solutions.</p>
+<p align="center">I'm an aspiring computer science student on a gap year, diving deep into AI, software development, and startups. Instead of a traditional path, I'm spending this time learning by building, developing projects that challenge me, exploring new technologies, and working on innovative solutions.</p>
 
 ###
 
