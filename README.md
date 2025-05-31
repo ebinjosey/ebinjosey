@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Aspiring CS student | Startup Builder</h2>
+<h2 align="center">AI Enthusiast | Startup Builder</h2>
 
 ###
 
