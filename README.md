@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I'm a computer science student, diving deep into AI, software development, and startups. Instead of a traditional path, I'm spending this time learning by building, developing projects that challenge me, exploring new technologies, and working on innovative solutions.</p>
+<p align="center">I’m a computer science student with a passion for AI, software development, and startups. Rather than following a traditional path, I focus on learning through building. I tackle challenging projects, explore new technologies, and create solutions that push boundaries. I thrive on hands-on experience and real-world problem solving because that is how I grow the fastest.</p>
 
 ###
 
